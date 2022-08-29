@@ -47,3 +47,15 @@ tbody {
 th {
     color: white;
 }
+
+Table {
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: left;
+    padding: 5px;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
