@@ -41,8 +41,13 @@ h3 {
 }
 
 /* Tabella */
+.tabellastrong{
+    font-weight: bold;
+}
+
 thead {
     background-color: rgb(64, 179, 233);
+    
 }
 
 tbody {
