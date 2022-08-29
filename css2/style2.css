@@ -1,0 +1,101 @@
+body {
+    text-align: center;
+    
+}
+
+main, footer {
+    margin: 0px 300px 0px 300px;
+}
+
+/* Intestazione */
+
+header {
+    background-image: url("../img/pattern.png");
+    background-color: hwb(192 9% 16%);
+    height: 170px;
+}
+
+.logo {
+    width: 300px;
+    height: 200px;
+    padding-top: 100px;
+    display: inline-block;
+}
+
+/* Testo */
+h3 {
+    color: gray;
+    margin: 0px;
+}
+
+.Boolean{
+    color: rgb(21, 209, 193);
+    display: inline-block;
+}
+
+.grey{
+    color: gray;
+    margin-top: 0px;
+    
+}
+
+/* Didascalia */
+.didascalia {
+    font-size: smaller;
+}
+
+/* Testo evidenziato */
+.evidenziato {
+    background-color: yellow;
+}
+
+/* Tabella */
+thead {
+    background-color: rgb(64, 179, 233);
+}
+
+tbody {
+    background-color: rgb(156, 229, 241);
+}
+
+th {
+    color: white;
+}
+
+Table {
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: left;
+    padding: 5px;
+}
+
+tr:nth-child(even) {
+    background-color: #ffffff;
+}
+
+/* Footer */
+.primo {
+
+    color: white;
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    font-size: 140%;
+    width: 240px;
+    height: 200px;
+    margin-top: 5px;
+    
+}
+
+.altro {
+
+    color: white;
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    font-size: 140%;
+    width: 240px;
+    height: 200px;
+    margin-top: 5px;
+    
+}
