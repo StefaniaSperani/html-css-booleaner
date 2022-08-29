@@ -62,11 +62,23 @@ tr:nth-child(even) {
 }
 
 /* Footer */
-h2 {
+.primo {
     color: white;
     background-image: url("../img/monitor.jpg");
     background-repeat: no-repeat;
     font-size: 140%;
     width: 240px;
     height: 200px;
+    margin-top: 5px;
   }
+
+  .altro {
+
+    color: white;
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    font-size: 140%;
+    width: 240px;
+    height: 200px;
+    margin-top: 5px;
+}
