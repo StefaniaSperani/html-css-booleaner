@@ -1,11 +1,14 @@
 body {
     text-align: center;
+    background-color: rgb(207, 90, 74);
     
 }
 
-main, footer {
-    margin: 0px 300px 0px 300px;
+main {
+    margin-left: 30%;
+    margin-right: 30%;
 }
+
 
 /* Intestazione */
 
@@ -85,6 +88,8 @@ tr:nth-child(even) {
     width: 240px;
     height: 200px;
     margin-top: 5px;
+    margin-left: 44%;
+    margin-right: 44%;
     
 }
 
@@ -97,5 +102,11 @@ tr:nth-child(even) {
     width: 240px;
     height: 200px;
     margin-top: 5px;
+    margin-left: 44%;
+    margin-right: 44%;
     
+}
+
+.fgrey {
+    text-align: center;
 }
