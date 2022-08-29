@@ -1,3 +1,5 @@
+/* Intestazione */
+
 header {
     background-image: url("../img/pattern.png");
     background-color: hwb(192 9% 16%);
@@ -9,7 +11,7 @@ header {
     padding-top: 100px;
     display: inline-block;
 }
-
+/* Testo */
 h3 {
     color: gray;
     margin: 0px;
@@ -21,6 +23,16 @@ h3 {
 }
 .grey{
     color: gray;
-    margin: 0px;
+    margin-top: 0px;
     
+}
+
+/* Didascalia */
+.didascalia {
+    font-size: smaller;
+}
+
+/* Testo evidenziato */
+.evidenziato {
+    background-color: yellow;
 }
