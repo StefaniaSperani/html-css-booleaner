@@ -39,10 +39,10 @@ h3 {
 
 /* Tabella */
 thead {
-    background-color: rgb(15, 127, 179);
+    background-color: rgb(64, 179, 233);
 }
 tbody {
-    background-color: rgb(143, 175, 218);
+    background-color: rgb(156, 229, 241);
 }
 th {
     color: white;
@@ -58,7 +58,7 @@ th, td {
 }
 
 tr:nth-child(even) {
-    background-color: #f2f2f2;
+    background-color: #ffffff;
 }
 
 /* Footer */
