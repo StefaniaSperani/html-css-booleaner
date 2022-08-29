@@ -56,6 +56,18 @@ th, td {
     text-align: left;
     padding: 5px;
 }
+
 tr:nth-child(even) {
     background-color: #f2f2f2;
+}
+
+/* Footer */
+h2 {
+    color: white;
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    font-size: 140%;
+    width: 240px;
+    height: 200px;
+  }
 }
