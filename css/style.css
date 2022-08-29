@@ -38,3 +38,12 @@ h3 {
 }
 
 /* Tabella */
+thead {
+    background-color: rgb(15, 127, 179);
+}
+tbody {
+    background-color: rgb(143, 175, 218);
+}
+th {
+    color: white;
+}
